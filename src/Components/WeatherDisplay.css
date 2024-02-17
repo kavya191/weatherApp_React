@@ -4,8 +4,9 @@
 }
 .weather-app{
     text-align: center;
-    height: 400px;
+    height: 100vh;
     box-sizing: border-box;
+    background-color: hsl(268, 29%, 91%);
 }
 .title{
     padding-top: 2rem;
